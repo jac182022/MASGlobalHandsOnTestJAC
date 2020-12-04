@@ -1,0 +1,49 @@
+<h1>Hands On Test</h1>
+
+<p>Search employees by Id</p>
+
+
+
+
+<form [formGroup]="searchEmployeeForm" (ngSubmit)="onSubmit(searchEmployeeForm.value)">
+  <div class="row">
+    <div class="col-md-4">
+      <label for="IdEmployee">Employee Id</label>
+      <input id="IdEmployee" maxlength="9" autocomplete="off" pattern="^[0-9]{0,9}$" title="Nine numbers max" class="form-control" type="text" formControlName="IdEmployee">
+    </div>
+  </div>
+  <div class="row spacer" ></div>
+  <div class="row">
+    <div class="col-md-4">
+      <button class="btn btn-primary"  [disabled]="!searchEmployeeForm.valid" IdEmployee.invalid type="submit">Search</button>
+    </div>
+  </div>
+</form>
+<p *ngIf="Isloading"><em>Loading...</em></p>
+<div class="row spacer" ></div>
+<div class="table-responsive">
+<table class='table table-striped' *ngIf="employees">
+  <thead class="thead-dark">
+    <tr>
+      <th>Id</th>
+      <th>Name</th>
+      <th>Contract Type</th>
+      <th>Role</th>
+      <th>Hourly Salary</th>
+      <th>Monthly Salary</th>
+      <th>Anual Salary</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let employee of employees">
+      <td>{{ employee.id }}</td>
+      <td>{{ employee.name }}</td>
+      <td>{{ employee.contractTypeName }}</td>
+      <td>{{ employee.role.roleName }}</td>
+      <td>{{ employee.hourlySalary }}</td>
+      <td>{{ employee.monthlySalary }}</td>
+      <td>{{ employee.anualSalary }}</td>
+    </tr>
+  </tbody>
+</table>
+</div>

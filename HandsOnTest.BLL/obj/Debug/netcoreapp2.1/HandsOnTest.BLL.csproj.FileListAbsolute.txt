@@ -1,0 +1,16 @@
+C:\Users\Arturo\documents\visual studio 2017\Projects\HandsOnTest\HandsOnTest.BLL\bin\Debug\netcoreapp2.1\HandsOnTest.BLL.deps.json
+C:\Users\Arturo\documents\visual studio 2017\Projects\HandsOnTest\HandsOnTest.BLL\bin\Debug\netcoreapp2.1\HandsOnTest.BLL.dll
+C:\Users\Arturo\documents\visual studio 2017\Projects\HandsOnTest\HandsOnTest.BLL\bin\Debug\netcoreapp2.1\HandsOnTest.BLL.pdb
+C:\Users\Arturo\documents\visual studio 2017\Projects\HandsOnTest\HandsOnTest.BLL\bin\Debug\netcoreapp2.1\HandsOnTest.DAL.dll
+C:\Users\Arturo\documents\visual studio 2017\Projects\HandsOnTest\HandsOnTest.BLL\bin\Debug\netcoreapp2.1\HandsOnTest.Domain.dll
+C:\Users\Arturo\documents\visual studio 2017\Projects\HandsOnTest\HandsOnTest.BLL\bin\Debug\netcoreapp2.1\Newtonsoft.Json.dll
+C:\Users\Arturo\documents\visual studio 2017\Projects\HandsOnTest\HandsOnTest.BLL\bin\Debug\netcoreapp2.1\HandsOnTest.DAL.pdb
+C:\Users\Arturo\documents\visual studio 2017\Projects\HandsOnTest\HandsOnTest.BLL\bin\Debug\netcoreapp2.1\HandsOnTest.Domain.pdb
+C:\Users\Arturo\documents\visual studio 2017\Projects\HandsOnTest\HandsOnTest.BLL\bin\Debug\netcoreapp2.1\Newtonsoft.Json.xml
+C:\Users\Arturo\documents\visual studio 2017\Projects\HandsOnTest\HandsOnTest.BLL\obj\Debug\netcoreapp2.1\HandsOnTest.BLL.csprojAssemblyReference.cache
+C:\Users\Arturo\documents\visual studio 2017\Projects\HandsOnTest\HandsOnTest.BLL\obj\Debug\netcoreapp2.1\HandsOnTest.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Arturo\documents\visual studio 2017\Projects\HandsOnTest\HandsOnTest.BLL\obj\Debug\netcoreapp2.1\HandsOnTest.BLL.AssemblyInfoInputs.cache
+C:\Users\Arturo\documents\visual studio 2017\Projects\HandsOnTest\HandsOnTest.BLL\obj\Debug\netcoreapp2.1\HandsOnTest.BLL.AssemblyInfo.cs
+C:\Users\Arturo\documents\visual studio 2017\Projects\HandsOnTest\HandsOnTest.BLL\obj\Debug\netcoreapp2.1\HandsOnTest.BLL.csproj.CopyComplete
+C:\Users\Arturo\documents\visual studio 2017\Projects\HandsOnTest\HandsOnTest.BLL\obj\Debug\netcoreapp2.1\HandsOnTest.BLL.dll
+C:\Users\Arturo\documents\visual studio 2017\Projects\HandsOnTest\HandsOnTest.BLL\obj\Debug\netcoreapp2.1\HandsOnTest.BLL.pdb

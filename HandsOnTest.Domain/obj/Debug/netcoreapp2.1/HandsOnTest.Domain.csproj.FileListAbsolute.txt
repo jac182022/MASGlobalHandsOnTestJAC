@@ -1,0 +1,9 @@
+C:\Users\Arturo\documents\visual studio 2017\Projects\HandsOnTest\HandsOnTest.Domain\bin\Debug\netcoreapp2.1\HandsOnTest.Domain.deps.json
+C:\Users\Arturo\documents\visual studio 2017\Projects\HandsOnTest\HandsOnTest.Domain\bin\Debug\netcoreapp2.1\HandsOnTest.Domain.dll
+C:\Users\Arturo\documents\visual studio 2017\Projects\HandsOnTest\HandsOnTest.Domain\bin\Debug\netcoreapp2.1\HandsOnTest.Domain.pdb
+C:\Users\Arturo\documents\visual studio 2017\Projects\HandsOnTest\HandsOnTest.Domain\obj\Debug\netcoreapp2.1\HandsOnTest.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Arturo\documents\visual studio 2017\Projects\HandsOnTest\HandsOnTest.Domain\obj\Debug\netcoreapp2.1\HandsOnTest.Domain.AssemblyInfoInputs.cache
+C:\Users\Arturo\documents\visual studio 2017\Projects\HandsOnTest\HandsOnTest.Domain\obj\Debug\netcoreapp2.1\HandsOnTest.Domain.AssemblyInfo.cs
+C:\Users\Arturo\documents\visual studio 2017\Projects\HandsOnTest\HandsOnTest.Domain\obj\Debug\netcoreapp2.1\HandsOnTest.Domain.dll
+C:\Users\Arturo\documents\visual studio 2017\Projects\HandsOnTest\HandsOnTest.Domain\obj\Debug\netcoreapp2.1\HandsOnTest.Domain.pdb
+C:\Users\Arturo\Documents\Visual Studio 2017\Projects\HandsOnTest\HandsOnTest.Domain\obj\Debug\netcoreapp2.1\HandsOnTest.Domain.csprojAssemblyReference.cache

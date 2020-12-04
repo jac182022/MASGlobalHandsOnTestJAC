@@ -1,0 +1,14 @@
+C:\Users\Arturo\documents\visual studio 2017\Projects\HandsOnTest\HandsOnTest.DAL\obj\Debug\netcoreapp2.1\HandsOnTest.DAL.csprojAssemblyReference.cache
+C:\Users\Arturo\documents\visual studio 2017\Projects\HandsOnTest\HandsOnTest.DAL\obj\Debug\netcoreapp2.1\HandsOnTest.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Arturo\documents\visual studio 2017\Projects\HandsOnTest\HandsOnTest.DAL\obj\Debug\netcoreapp2.1\HandsOnTest.DAL.AssemblyInfoInputs.cache
+C:\Users\Arturo\documents\visual studio 2017\Projects\HandsOnTest\HandsOnTest.DAL\obj\Debug\netcoreapp2.1\HandsOnTest.DAL.AssemblyInfo.cs
+C:\Users\Arturo\documents\visual studio 2017\Projects\HandsOnTest\HandsOnTest.DAL\bin\Debug\netcoreapp2.1\HandsOnTest.DAL.deps.json
+C:\Users\Arturo\documents\visual studio 2017\Projects\HandsOnTest\HandsOnTest.DAL\bin\Debug\netcoreapp2.1\HandsOnTest.DAL.dll
+C:\Users\Arturo\documents\visual studio 2017\Projects\HandsOnTest\HandsOnTest.DAL\bin\Debug\netcoreapp2.1\HandsOnTest.DAL.pdb
+C:\Users\Arturo\documents\visual studio 2017\Projects\HandsOnTest\HandsOnTest.DAL\bin\Debug\netcoreapp2.1\HandsOnTest.Domain.dll
+C:\Users\Arturo\documents\visual studio 2017\Projects\HandsOnTest\HandsOnTest.DAL\bin\Debug\netcoreapp2.1\Newtonsoft.Json.dll
+C:\Users\Arturo\documents\visual studio 2017\Projects\HandsOnTest\HandsOnTest.DAL\bin\Debug\netcoreapp2.1\HandsOnTest.Domain.pdb
+C:\Users\Arturo\documents\visual studio 2017\Projects\HandsOnTest\HandsOnTest.DAL\bin\Debug\netcoreapp2.1\Newtonsoft.Json.xml
+C:\Users\Arturo\documents\visual studio 2017\Projects\HandsOnTest\HandsOnTest.DAL\obj\Debug\netcoreapp2.1\HandsOnTest.DAL.csproj.CopyComplete
+C:\Users\Arturo\documents\visual studio 2017\Projects\HandsOnTest\HandsOnTest.DAL\obj\Debug\netcoreapp2.1\HandsOnTest.DAL.dll
+C:\Users\Arturo\documents\visual studio 2017\Projects\HandsOnTest\HandsOnTest.DAL\obj\Debug\netcoreapp2.1\HandsOnTest.DAL.pdb
